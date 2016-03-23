@@ -1,0 +1,120 @@
+
+/* ############### Auction stone ##############*/
+
+nav{
+background:  #428bca !important;
+background-image: none!important;
+}
+
+.top_demo {
+  background: #cb1f25;
+}
+.navigation22 li.active {
+  background: #428bca !important;
+      border: none !important;
+}
+ .navigation22 li.active a{
+background-color:  #428bca !important;
+ 
+}
+.navigation22 ul li:hover li a, .navigation22 ul li.active li a {
+  background:none !important;
+  color:#444;
+}
+.navigation22 ul ul li a.nav-menu-link {
+    background: url(../images/home/arrow1.png) no-repeat 225px -14px !important;
+}
+.new_bright_li li a{
+  color: #428bca !important;
+    border-right: 2px solid #428bca !important;
+}
+.navigation22 li li .dropdown .row-link a {
+  background:url(../images/home/arrow1.png) no-repeat right top !important;
+  
+}
+.featurestory-tabpanels .active a
+{  background-color: #fff !important}
+
+.sidbrd22 a.active  {
+  background-color: none !important;
+}
+.red_menu {
+  background: #cb1f25;
+}
+
+.row.clrbg {
+  background-color: #cb1f25;
+}
+
+.new_bright_div {
+  color: #cb1f25 !important;
+  border-right: 2px solid #cb1f25 !important;
+}
+
+.red_txt {
+  color: #cb1f25 !important;
+}
+
+.row.bder {
+  border-bottom: 3px solid #cb1f25;
+  border-top: 3px solid #cb1f25;
+}
+
+.materials {
+  color: #cb1f25;
+}
+
+.btn-danger {
+  background-color: #428bca  !important;
+}
+
+.btn-danger {
+  background-color: #428bca  !important;
+  background-image: none;
+  border: #ccc;
+}
+
+.row.clrbg1 .image_search {
+  font-size: 15px;
+  margin-left: 10px;
+  padding-top: 10px;
+  background: url("../images/search_n.png");
+  background-color: #cb1f25;
+  background-repeat: no-repeat;
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  background-position: 15px;
+  margin-top: 32px;
+}
+.pt_btn div.offer, .pro_offer {
+  background: url("../images/offer_n.png");
+  background-color: #428bca;
+  background-size: 50px;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #cb1f25;
+  border-color: #cb1f25;
+}
+
+.panel-default > .panel-heading {
+  //background-color: #428bca !important;
+  //color: #fff;
+}
+
+.btn-primary:hover  ,.btn-primary:focus ,.btn-primary:active  ,.btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #428bca;
+  background-image:none;
+}
+
+.project_title {
+  background-color: #cb1f25;
+}
+
+.simpro_lbl {
+  background: #cb1f25;
+}

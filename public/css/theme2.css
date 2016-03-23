@@ -1,0 +1,185 @@
+/* ######################### Glossy Byzantium ##############*/
+
+nav{
+background: #c22567 !important;
+color: #fff !important; 
+background-image: none!important;
+}
+
+.welcome-msg{
+  color: #000 !important;
+}
+.navigation22 li.active {
+  background: #c22567 !important;
+  border: none !important;
+}
+
+ .navigation22 li.active a{
+background-color: #c22567 !important;
+ 
+}
+.navigation22 ul li:hover li a, .navigation22 ul li.active li a {
+  background:none!important;
+  color:#444;
+}
+.navigation22 ul ul li a.nav-menu-link {
+    background: url(../images/home/arrow1.png) no-repeat 225px -14px !important;
+}
+.new_bright_li li a{
+  color: #242525 !important;
+    border-right: 2px solid #242525 !important;
+}
+.navigation22 li li .dropdown .row-link a {
+  background:url(../images/home/arrow1.png) no-repeat right top !important;
+  
+}
+.featurestory-tabpanels .active a
+{  background-color: #fff !important}
+
+
+.sidbrd22 a.active  {
+  background-color: none !important;
+}
+.top_demo {
+  background: #c22567;
+}
+
+.red_menu {
+  background: #c22567;
+}
+
+.row.clrbg {
+  background-color: #c22567;
+}
+
+.new_bright_div {
+  color: #c22567 !important;
+  border-right: 2px solid #c22567 !important;
+}
+
+.red_txt {
+  color: #c22567 !important;
+}
+
+.row.bder {
+  border-bottom: 3px solid #c22567;
+  border-top: 3px solid #c22567;
+}
+
+.materials {
+  color: #c22567;
+}
+
+.btn-danger {
+	background-color: #c22567 !important;
+}
+
+.btn-danger {
+  background-color: #c22567 !important;
+  background-image: none;
+  border: #ccc;
+}
+
+.navbar-default {
+  background-color: #333;
+  border-color: #333;
+}
+
+.navbar-nav {
+  background: #333;
+}
+.menu {
+  background: #333;
+}
+
+.btn.bt {
+  background-color: #333 !important;
+  background-image: none;
+  border-color: #ccc;
+}
+
+.input-group-addon {
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  background-color: #333;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+.input-group-addon:hover {
+	 background-color: #c22567;
+	 border: 1px solid #ccc;
+	 color: #333;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #c22567;
+  border-color: #c22567;
+}
+
+.btn-primary:hover  ,.btn-primary:focus ,.btn-primary:active  ,.btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active {
+  color: #fff;
+  background-color: #d83077;
+  border-color: #d83077;
+  background-image:none;
+}
+
+
+.panel-default > .panel-heading {
+ // background-color: #c22567;
+  //color: #fff;
+}
+
+.project_title {
+	background-color: #c22567;
+}
+
+.simpro_lbl {
+  background: #c22567;
+}
+
+
+.row.clrbg1 .image_search {
+  font-size: 15px;
+  margin-left: 10px;
+  padding-top: 10px;
+  background: url("../images/search_n.png");
+  background-color: #c22567;
+  background-repeat: no-repeat;
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  background-position: 15px;
+  margin-top: 32px;
+}
+.pt_btn div.offer, .pro_offer {
+  background: url("../images/offer_n.png");
+  background-color: #c22567;
+  background-size: 50px;
+}
+
+.tmenu_right .input-group-addon { 
+  background:#333333;
+}
+
+@media screen and (max-width: 980px) {
+
+.menu {
+  background: #c22567;
+}
+
+.navbar-default {
+  background-color: #c22567;
+  border-color: #c22567;
+}
+
+.navbar-nav {
+  background: #c22567;
+}
+
+}

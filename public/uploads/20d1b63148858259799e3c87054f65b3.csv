@@ -1,0 +1,19 @@
+title,subject,type,method,template,date_added,buyer,seller,admin,general,status
+TestCSV1,TestCSV1,global,sms,"<p>Hi All,</p>
+
+<p>This is a Test template</p>
+
+<p>Ash</p>
+",23/07/15 18:04,1,0,1,0,1
+TestCSV2,TestCSV2,global,sms,"<p>Hi All,</p>
+
+<p>This is a Test template</p>
+
+<p>Ash</p>
+",23/07/15 18:04,0,1,1,0,1
+TestCSV3,TestCSV3,global,sms,"<p>Hi All,</p>
+
+<p>This is a Test template</p>
+
+<p>Ash</p>
+",23/07/15 18:04,0,0,1,1,1

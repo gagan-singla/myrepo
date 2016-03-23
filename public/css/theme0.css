@@ -1,0 +1,148 @@
+/*#################### Black Forest ##############*/
+
+
+nav{
+
+background: #242525 !important;
+color: #fff !important; 
+background-image: none!important;
+}
+
+.welcome-msg{
+  color: #fff !important;
+}
+.navigation22 li.active {
+  background: #242525 !important;
+  border: none !important;
+}
+
+ .navigation22 li .active a{
+background-color: #3caff7 !important;
+
+}
+.navigation22 ul li:hover li a, .navigation22 ul li.active li a {
+  background:none!important;
+  color:#444;
+}
+.navigation22 ul ul li a.nav-menu-link {
+    background: url(../images/home/arrow1.png) no-repeat 225px -14px !important;
+}
+
+.new_bright_li li a{
+  color:  #242525 !important;
+    border-right: 2px solid #242525 !important;
+}
+
+.navigation22 li li .dropdown .row-link a {
+  background:url(../images/home/arrow1.png) no-repeat right top !important;
+  
+}
+
+.featurestory-tabpanels .active a
+{  background-color: #fff !important}
+
+.sidbrd22 a.active  {
+  background-color: none !important;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-primary:hover ,.btn-primary:focus ,.btn-primary:active  ,.btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active {
+  color: #fff;
+  background-color: #333;
+  border-color: #333;
+  background-image:none;
+}
+
+.project_title {
+  background-color: #333;
+}
+
+.simpro_lbl {
+  background: #333;
+}
+
+
+.panel-default > .panel-heading {
+  //background-color: #000;
+  //color: #fff;
+}
+
+.top_demo {
+  background: #000;
+}
+
+.red_menu {
+  background: #000;
+}
+
+.row.clrbg {
+  background-color: #000;
+}
+
+.new_bright_div {
+  color: #000 !important;
+  border-right: 2px solid #000 !important;
+}
+
+.red_txt {
+  color: #000 !important;
+}
+
+.row.bder {
+  border-bottom: 3px solid #000;
+  border-top: 3px solid #000;
+}
+
+.materials {
+  color: #000;
+}
+
+.btn-danger {
+  background-color: #000 !important;
+}
+
+.btn-danger {
+  background-color: #000 !important;
+  background-image: none;
+  border: #ccc;
+}
+
+.row.clrbg1 .image_search {
+  font-size: 15px;
+  margin-left: 10px;
+  padding-top: 10px;
+  background: url("../images/search_n.png");
+  background-color: #000;
+  background-repeat: no-repeat;
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+  background-position: 15px;
+  margin-top: 32px;
+}
+.pt_btn div.offer, .pro_offer {
+  background: url("../images/offer_n.png");
+  background-color: #000;
+  background-size: 50px;
+}
+
+@media screen and (max-width: 980px) {
+
+.menu {
+  background: #000;
+}
+
+.navbar-default {
+  background-color: #000;
+  border-color: #000;
+}
+
+.navbar-nav {
+  background: #000;
+}
+
+}

@@ -1,0 +1,45 @@
+.dvPreview img{
+  margin:10px;
+}
+.category ul{
+  display:none;
+}
+.search_tbar {
+	margin:0;
+}
+.table-responsive {
+	overflow-x:visible; 
+  padding-top: 20px;
+	
+}
+.stab {
+	border:1px solid #ccc;
+	line-height:26px;
+	margin-top:15px;
+}
+.stab th {
+	background: #e9e9e8;
+}
+.stab2 {
+	color:#000;
+	line-height:24px;
+}
+.stab3 {
+	color:#999;
+	font-size:12px;
+	line-height:24px;
+}
+.stab3 a {
+}
+.pagination { 
+margin:8px 0;
+}
+
+@media(max-width:991px) {
+	.table.stab > tbody > tr > td {
+		border:none;
+	}
+	.stab tr {
+	    border-top: 1px solid #ddd;
+	}
+}

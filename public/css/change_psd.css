@@ -1,0 +1,140 @@
+
+.padlef0 {
+	padding-left: 0;
+}
+
+.pswd_change {
+	color: #555555;
+	font-weight: bold;
+	font-size: 19px;
+	margin: 13px 0px;
+	padding-bottom: 10px;
+}
+.row.pd{
+	padding-bottom: 17px;
+}
+.btn-danger {
+	color: #fff;
+	font-size: 16px;
+}
+.ship_save {
+	width:100%;
+}
+.gryy-box{
+	border: 1px solid;
+	height: 242px;
+}
+.ds.npayment .checkbox {
+	top: 0;
+	margin: 0px;
+}
+.ds.npayment .label-danger {
+
+	padding: 6px;
+	color: #fff;
+	font-size: 16px;
+	margin: 0;
+	display: block;
+	height: 34px;
+	width: 80px;
+	line-height: 22px;
+	font-weight: 600;
+}
+.ds.npayment .label-default{
+	color: #fff;
+	padding: 9px 18px;
+	font-size: 20px;
+	background-color:#acacac;
+}
+.parclr{
+	color: #575757;
+	font-size:14px;
+	padding: 5px 0;
+}
+.pclr{
+ color: #7e7a7a;
+  font-size: 16px;
+  font-weight: 600;
+}
+.pclr_pay {
+	color: #333;
+  font-size: 16px;
+  font-weight: 600;
+}
+.pplbl {
+  font-size: 16px;
+  color: #555;
+  font-weight:600;
+  margin: 0px;
+}
+.persnl-profl{
+color: #555555;
+font-weight: bold;
+font-size: 23px;
+margin: 16px 0px;
+padding-bottom: 10px;
+}
+.frm{
+padding: 23px 0px;
+}
+.frmbx{
+padding: 7px 0px;
+}
+.select{
+  color: #605d5d;
+  font-size: 24px;
+  padding: 12px 15px;
+  margin: 0 15px;
+}
+.packging{
+font-size: 16px;
+color: #acacac;
+padding: 6px 3px;
+}
+.form-control.bder{
+height: auto;
+resize: none;
+border-radius:4px;
+}
+.btn.btgn{
+margin: 31px 1px;
+font-size: 20px;
+}
+.btn.btndft{
+margin: 30px 1px;
+font-size: 20px;
+background-color: #959595;
+color: #fff;
+}
+.chkbx{
+padding: 5px 16px;
+}
+.row {
+	font-family: 'Open Sans';
+}
+.ship_tinf .row {
+  font-family: 'Open Sans';
+  margin: 10px -15px;
+}
+.ship_tinf .panel-heading h5 {
+	  font-weight: 600;
+	  font-size: 16px;
+}
+.row.shipwrap {
+  font-family: 'Open Sans';
+  max-width: 1024px;
+  margin: 0px auto;
+}
+.btn.btn-black {
+  width: 150px;
+  height: 32px;
+  background-color: #555;
+  color: #fff;
+  margin: 10px auto;
+  font-size: 14px;
+  font-family: 'Open Sans';
+  display: block;
+}
+.pagination {
+	margin:0px;
+}
